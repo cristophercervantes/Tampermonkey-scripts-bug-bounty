@@ -1,4 +1,4 @@
-# Google Results Extractor — Tampermonkey Script
+(# Google Results Extractor — Tampermonkey Script)[https://github.com/cristophercervantes/Tampermonkey-scripts-bug-bounty/blob/main/Copy%20URLs%2C%20Titles%2C%20Domains%2C%20and%20Specific%20URLs.js]
 
 A powerful Tampermonkey userscript that extracts URLs, titles, domains, and specific file types from Google search results with a clean, compact interface.
 
