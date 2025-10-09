@@ -223,6 +223,4 @@ If you encounter issues:
 
 Happy bug bounty hunting! 🐛💰
 
----
 
-*Generated: Google Results Extractor — Tampermonkey Script (README markdown)*
